@@ -9,3 +9,5 @@ function reverseArray (arr){
   return arr;
 }
 
+let revArr = [1, 2, 3, 4, 5, 6];
+reverseArray(revArr);
