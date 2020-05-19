@@ -1,0 +1,30 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "We should know how to deal with the array, and the elements in the array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "lint-me": "eslint **/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raghadalquran/notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raghadalquran/notes/issues"
+  },
+  "homepage": "https://github.com/raghadalquran/notes#readme",
+  "dependencies": {
+    "eslint": "^7.0.0",
+    "lint": "^0.7.0",
+    "minimist": "^1.2.5"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1",
+    "lint": "^0.7.0"
+  }
+}
